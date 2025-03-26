@@ -1,0 +1,7 @@
+F:\مصطفی\Visual Studio 2019\Mostafa_jafari_nasab_1114\Mostafa_jafari_nasab_1114\bin\Debug\Mostafa_jafari_nasab_1114.exe.config
+F:\مصطفی\Visual Studio 2019\Mostafa_jafari_nasab_1114\Mostafa_jafari_nasab_1114\bin\Debug\Mostafa_jafari_nasab_1114.exe
+F:\مصطفی\Visual Studio 2019\Mostafa_jafari_nasab_1114\Mostafa_jafari_nasab_1114\bin\Debug\Mostafa_jafari_nasab_1114.pdb
+F:\مصطفی\Visual Studio 2019\Mostafa_jafari_nasab_1114\Mostafa_jafari_nasab_1114\obj\Debug\Mostafa_jafari_nasab_1114.csprojAssemblyReference.cache
+F:\مصطفی\Visual Studio 2019\Mostafa_jafari_nasab_1114\Mostafa_jafari_nasab_1114\obj\Debug\Mostafa_jafari_nasab_1114.csproj.CoreCompileInputs.cache
+F:\مصطفی\Visual Studio 2019\Mostafa_jafari_nasab_1114\Mostafa_jafari_nasab_1114\obj\Debug\Mostafa_jafari_nasab_1114.exe
+F:\مصطفی\Visual Studio 2019\Mostafa_jafari_nasab_1114\Mostafa_jafari_nasab_1114\obj\Debug\Mostafa_jafari_nasab_1114.pdb
